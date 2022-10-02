@@ -1,0 +1,4 @@
+workHomePath:/Users/daitao/Documents/Demo/draftPaper/draftPaper/src/main/java/com/daitao/draftPaper2
+workHomePath:/Users/daitao/Documents/Demo/draftPaper/draftPaper/src/main/java/com/daitao/draftPaper3
+workHomePath:/Users/daitao/Documents/Demo/draftPaper/draftPaper/src/main/java/com/daitao/draftPaper4
+workHomePath:/Users/daitao/Documents
